@@ -11,3 +11,9 @@ Skills:
 - Strong understanding of database concepts and data migration strategies
 - Familiar with Agile software development methodologies
 - Excellent communication and problem-solving skills
+
+Certifications:
+
+- Salesforce Certified Platform Developer I
+- Salesforce Certified Platform App Builder
+- Salesforce Certified Administrator
